@@ -2,7 +2,7 @@ import Image from 'next/image'
 import Menu from '../components/menu'
 import category1 from '../images/category1-img.png'
 import category2 from '../images/category2-img.png'
-import category1 from '../images/category1-img.png'
+import category3 from '../images/category3-img.png'
 
 export default function Category() {
   return (
